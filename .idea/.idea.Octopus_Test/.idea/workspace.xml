@@ -1,15 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="047bdfb8-cfc9-4247-80d0-4c22a2501574" name="Default Changelist" comment="" />
+    <list default="true" id="047bdfb8-cfc9-4247-80d0-4c22a2501574" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Octopus_Test/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Octopus_Test/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Octopus_Test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Octopus_Test/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/HexPathfinding.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/HexPathfinding.unity" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Constants.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingObstacle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Quit.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IPathFinder.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/ICell.cs" root0="FORCE_HIGHLIGHTING" />
@@ -56,6 +64,9 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/PathStatusViewer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/UI/ManualViewer.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/MovingObstacle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Exit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Quit.cs" />
+        <option value="$PROJECT_DIR$/ReadMe.md" />
       </list>
     </option>
   </component>
@@ -67,6 +78,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TWShift.4" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
   </component>
   <component name="ServiceViewManager">
@@ -93,12 +105,24 @@
       <updated>1599296027613</updated>
       <workItem from="1599296033305" duration="23113000" />
       <workItem from="1599380820920" duration="5920000" />
-      <workItem from="1599387812962" duration="10586000" />
+      <workItem from="1599387812962" duration="10926000" />
+      <workItem from="1599399769380" duration="916000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="566" y="116" key="RiderGenerateDialog" timestamp="1599307046592">

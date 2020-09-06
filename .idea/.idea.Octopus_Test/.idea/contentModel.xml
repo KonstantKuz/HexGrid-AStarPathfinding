@@ -24,6 +24,7 @@
           </e>
           <e p="MovingObstacle.cs" t="Include" />
           <e p="PathRequester.cs" t="Include" />
+          <e p="Quit.cs" t="Include" />
           <e p="Selector.cs" t="Include" />
           <e p="SimpleCameraController.cs" t="Include" />
           <e p="UI" t="Include">

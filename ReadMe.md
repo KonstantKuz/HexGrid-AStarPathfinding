@@ -1,0 +1,1 @@
+![HexGrid](https://github.com/KonstantKuz/HexGrid_AStarPathfinding/blob/master/GIF/hexPathfinding.gif)
