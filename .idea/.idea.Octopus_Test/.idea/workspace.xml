@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="047bdfb8-cfc9-4247-80d0-4c22a2501574" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Constants.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MovingObstacle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SimpleCameraController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IPathFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/ICell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EventHolder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HexCell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IMap.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HexMapHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PathRequester.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/UI/PathStatusViewer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AStarPathFinder.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Selector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Editor/HexCellEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CellColors.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/IMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ICell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GridCreator.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GridHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HrxCell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GridHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IPathFinder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Node.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Heap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFinding.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/WorldGrid.cs" />
+        <option value="$PROJECT_DIR$/Assets/Selector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/ICell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathFinder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AStarPathFinder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SelectorColors.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Editor/HexCellEditor.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Constants.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CellColors.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HexGridHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HexCell.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Selector.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IMap.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HexMapHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EventHolder.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PathRequester.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/PathStatusViewer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/UI/ManualViewer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MovingObstacle.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1h5LV7Pv7anvo8cissLc3lpCU3t" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="047bdfb8-cfc9-4247-80d0-4c22a2501574" name="Default Changelist" comment="" />
+      <created>1599296027613</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599296027613</updated>
+      <workItem from="1599296033305" duration="23113000" />
+      <workItem from="1599380820920" duration="5920000" />
+      <workItem from="1599387812962" duration="10586000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="566" y="116" key="RiderGenerateDialog" timestamp="1599307046592">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="566" y="116" key="RiderGenerateDialog/0.0.1474.864@0.0.1474.864" timestamp="1599307046592" />
+    <state x="414" y="169" width="657" height="526" key="find.popup" timestamp="1599397743515">
+      <screen x="0" y="0" width="1458" height="864" />
+    </state>
+    <state x="414" y="169" width="657" height="526" key="find.popup/0.0.1458.864@0.0.1458.864" timestamp="1599397743515" />
+    <state x="419" y="169" width="636" height="526" key="find.popup/0.0.1474.864@0.0.1474.864" timestamp="1599321300730" />
+    <state x="400" y="181" width="672" height="160" key="search.everywhere.popup" timestamp="1599320874341">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="400" y="181" width="672" height="160" key="search.everywhere.popup/0.0.1474.864@0.0.1474.864" timestamp="1599320874341" />
+  </component>
+</project>
